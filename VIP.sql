@@ -1,6 +1,6 @@
 -- phpMyAdmin SQL Dump
 -- version 4.9.7
--- https://www.phpmyadmin.net/
+-- https://dero888.github.io/xp//
 --
 -- Host: localhost:3306
 -- Generation Time: Feb 07, 2024 at 09:25 PM
